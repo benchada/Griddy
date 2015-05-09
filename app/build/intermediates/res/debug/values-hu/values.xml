@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-hu/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ugrás a főoldalra"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Felfelé mozgatás"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"További lehetőségek"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Kész"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Összes megtekintése"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Válasszon ki egy alkalmazást"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Lekérdezés törlése"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Keresési lekérdezés"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Keresés"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lekérdezés küldése"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hangalapú keresés"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Megosztás a következővel:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Megosztás a következővel: %s"</string>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/src/main/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="about_name">BOINC</string>
+    <string name="app_name">BOINC</string>
+    <string name="attachproject_acctmgr_header">Fiókkezelő hozzáadása</string>
+    <string name="attachproject_acctmgr_header_pwd">Jelszó:</string>
+    <string name="attachproject_list_acctmgr_button">Fiókkezelő hozzáadása</string>
+    <string name="attachproject_list_header">Válasszon projektet:</string>
+    <string name="attachproject_list_manual_button">Projekt hozzáadása URL szerint</string>
+    <string name="attachproject_list_manual_dialog_button">Projekt hozzáadása</string>
+    <string name="attachproject_list_manual_dialog_title">Adja meg a projekt URL-jét:</string>
+    <string name="attachproject_list_manual_no_url">Kérjük, adja meg a projekt URL-jét</string>
+    <string name="attachproject_list_no_internet">Nincs internetkapcsolat</string>
+    <string name="attachproject_login_header_description">Leírás:</string>
+    <string name="attachproject_login_header_id_email">eMail:</string>
+    <string name="attachproject_login_header_id_name">Név:</string>
+    <string name="attachproject_login_header_platform">Android:</string>
+    <string name="attachproject_login_header_pwd">Jelszó:</string>
+    <string name="attachproject_login_header_url">Weboldal:</string>
+    <string name="attachproject_login_image_description">Projekt logó.</string>
+    <string name="attachproject_login_platform_not_supported">Ez a projekt nem támogatja az Android eszközöket</string>
+    <string name="attachproject_login_platform_supported">Ez a projekt támogatja az Android eszközöket</string>
+    <string name="attachproject_registration_header_email">eMail:</string>
+    <string name="attachproject_registration_header_pwd">Jelszó:</string>
+    <string name="attachproject_registration_header_username">Név:</string>
+    <string name="attachproject_working_acctmgr">Fiókkezelő hozzáadása</string>
+    <string name="generic_loading">Betöltés! Kérjük, várjon...</string>
+    <string name="projects_add">Projekt hozzáadása</string>
+</resources>

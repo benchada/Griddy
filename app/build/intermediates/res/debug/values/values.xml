@@ -1,0 +1,1192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/src/main/res/values/configuration.xml -->
+    <eat-comment/>
+    <string-array name="acct_mgr_url_list" translatable="false">
+        	<item>http://bam.boincstats.com/</item>
+        	<item>http://gridrepublic.org/</item>
+        	<item>http://www.extremadurathome.org/extremadurathome/</item>
+    	</string-array>
+    <string-array name="prefs_client_log_flags" translatable="false">
+    	    <item>android_debug</item>
+    	    <item>http_debug</item>
+    	    <item>task_debug</item>
+    	    <item>gui_rpc_debug</item>
+    	    <item>cpu_sched_debug</item>
+    	    <item>work_fetch_debug</item>
+    	</string-array>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml -->
+    <eat-comment/>
+    <attr format="reference" name="actionBarDivider"/>
+    <attr format="reference" name="actionBarItemBackground"/>
+    <attr format="dimension" name="actionBarSize"/>
+    <attr format="reference" name="actionBarSplitStyle"/>
+    <attr format="reference" name="actionBarStyle"/>
+    <attr format="reference" name="actionBarTabBarStyle"/>
+    <attr format="reference" name="actionBarTabStyle"/>
+    <attr format="reference" name="actionBarTabTextStyle"/>
+    <attr format="reference" name="actionBarWidgetTheme"/>
+    <attr format="reference" name="actionButtonStyle"/>
+    <attr format="reference" name="actionMenuTextAppearance"/>
+    <attr format="color|reference" name="actionMenuTextColor"/>
+    <attr format="reference" name="actionModeBackground"/>
+    <attr format="reference" name="actionModeCloseButtonStyle"/>
+    <attr format="reference" name="actionModeCloseDrawable"/>
+    <attr format="reference" name="actionModeCopyDrawable"/>
+    <attr format="reference" name="actionModeCutDrawable"/>
+    <attr format="reference" name="actionModeFindDrawable"/>
+    <attr format="reference" name="actionModePasteDrawable"/>
+    <attr format="reference" name="actionModePopupWindowStyle"/>
+    <attr format="reference" name="actionModeSelectAllDrawable"/>
+    <attr format="reference" name="actionModeShareDrawable"/>
+    <attr format="reference" name="actionModeSplitBackground"/>
+    <attr format="reference" name="actionModeStyle"/>
+    <attr format="reference" name="actionModeWebSearchDrawable"/>
+    <attr format="reference" name="actionOverflowButtonStyle"/>
+    <attr format="reference" name="activityChooserViewStyle"/>
+    <attr format="reference" name="buttonBarButtonStyle"/>
+    <attr format="reference" name="buttonBarStyle"/>
+    <attr format="reference" name="dividerHorizontal"/>
+    <attr format="reference" name="dividerVertical"/>
+    <attr format="reference" name="dropDownListViewStyle"/>
+    <attr format="dimension" name="height"/>
+    <attr format="reference" name="homeAsUpIndicator"/>
+    <attr format="boolean" name="isLightTheme"/>
+    <attr format="reference" name="listPopupWindowStyle"/>
+    <attr format="dimension" name="listPreferredItemHeight"/>
+    <attr format="dimension" name="listPreferredItemHeightLarge"/>
+    <attr format="dimension" name="listPreferredItemHeightSmall"/>
+    <attr format="dimension" name="listPreferredItemPaddingLeft"/>
+    <attr format="dimension" name="listPreferredItemPaddingRight"/>
+    <attr format="reference" name="searchDropdownBackground"/>
+    <attr format="dimension" name="searchResultListItemHeight"/>
+    <attr format="reference" name="searchViewAutoCompleteTextView"/>
+    <attr format="reference" name="searchViewCloseIcon"/>
+    <attr format="reference" name="searchViewEditQuery"/>
+    <attr format="reference" name="searchViewEditQueryBackground"/>
+    <attr format="reference" name="searchViewGoIcon"/>
+    <attr format="reference" name="searchViewSearchIcon"/>
+    <attr format="reference" name="searchViewTextField"/>
+    <attr format="reference" name="searchViewTextFieldRight"/>
+    <attr format="reference" name="searchViewVoiceIcon"/>
+    <attr format="reference" name="selectableItemBackground"/>
+    <attr format="reference" name="spinnerDropDownItemStyle"/>
+    <attr format="reference" name="spinnerStyle"/>
+    <attr format="reference" name="textAppearanceLargePopupMenu"/>
+    <attr format="reference" name="textAppearanceListItem"/>
+    <attr format="reference" name="textAppearanceListItemSmall"/>
+    <attr format="reference" name="textAppearanceSearchResultSubtitle"/>
+    <attr format="reference" name="textAppearanceSearchResultTitle"/>
+    <attr format="reference" name="textAppearanceSmallPopupMenu"/>
+    <attr format="reference|color" name="textColorSearchUrl"/>
+    <attr format="string" name="title"/>
+    <bool name="abc_action_bar_embed_tabs_pre_jb">false</bool>
+    <bool name="abc_action_bar_expanded_action_views_exclusive">true</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
+    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="abc_split_action_bar_is_narrow">true</bool>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/src/main/res/values/configuration.xml -->
+    <eat-comment/>
+    <bool name="prefs_default_advanced">false</bool>
+    <bool name="prefs_default_autostart">true</bool>
+    <bool name="prefs_default_notification_notices">true</bool>
+    <bool name="prefs_default_notification_suspended">false</bool>
+    <bool name="prefs_power_source_ac">true</bool>
+    <bool name="prefs_power_source_usb">true</bool>
+    <bool name="prefs_power_source_wireless">true</bool>
+    <bool name="prefs_stationary_device_mode">false</bool>
+    <bool name="prefs_suspend_when_screen_on">true</bool>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml -->
+    <eat-comment/>
+    <color name="abc_search_url_text_normal">#7fa87f</color>
+    <color name="abc_search_url_text_pressed">@android:color/black</color>
+    <color name="abc_search_url_text_selected">@android:color/black</color>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/src/main/res/values/Color.xml -->
+    <eat-comment/>
+    <color name="black">#000000</color>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="black_overlay">#66000000</color>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/src/main/res/values/Color.xml -->
+    <eat-comment/>
+    <color name="boinc_icon_dark_blue">#1E3C6E</color>
+    <color name="boinc_icon_light_blue">#1E6EA0</color>
+    <color name="dark_blue">#003366</color>
+    <color name="dark_blue_gradient">#0C4175</color>
+    <color name="dark_blue_gradient2">#004C96</color>
+    <color name="dark_blue_transparent">#DD003366</color>
+    <color name="dark_green">#1FBD00</color>
+    <color name="dark_grey">#4D4D4D</color>
+    <color name="dark_red">#DB0000</color>
+    <color name="light_blue">#A2CFFC</color>
+    <color name="light_green">#B1F5A4</color>
+    <color name="light_grey">#B0B0B0</color>
+    <color name="light_red">#FFB3B3</color>
+    <color name="light_yellow">#FCF281</color>
+    <color name="lightest_blue">#D6EBFF</color>
+    <color name="red">#990033</color>
+    <color name="warning">#FCEC3D</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_smoke">#F5F5F5</color>
+    <color name="yellow">#FCEC3D</color>
+    <declare-styleable name="ActionBar"><attr name="navigationMode"><enum name="normal" value="0"/><enum name="listMode" value="1"/><enum name="tabMode" value="2"/></attr><attr name="displayOptions"><flag name="useLogo" value="0x1"/><flag name="showHome" value="0x2"/><flag name="homeAsUp" value="0x4"/><flag name="showTitle" value="0x8"/><flag name="showCustom" value="0x10"/><flag name="disableHome" value="0x20"/></attr><attr name="title"/><attr format="string" name="subtitle"/><attr format="reference" name="titleTextStyle"/><attr format="reference" name="subtitleTextStyle"/><attr format="reference" name="icon"/><attr format="reference" name="logo"/><attr format="reference" name="divider"/><attr format="reference" name="background"/><attr format="reference|color" name="backgroundStacked"/><attr format="reference|color" name="backgroundSplit"/><attr format="reference" name="customNavigationLayout"/><attr name="height"/><attr format="reference" name="homeLayout"/><attr format="reference" name="progressBarStyle"/><attr format="reference" name="indeterminateProgressStyle"/><attr format="dimension" name="progressBarPadding"/><attr format="dimension" name="itemPadding"/></declare-styleable>
+    <declare-styleable name="ActionBarLayout"><attr name="android:layout_gravity"/></declare-styleable>
+    <declare-styleable name="ActionBarWindow"><attr format="boolean" name="windowActionBar"/><attr format="boolean" name="windowActionBarOverlay"/><attr format="boolean" name="windowSplitActionBar"/><attr format="dimension|fraction" name="windowFixedWidthMajor"/><attr format="dimension|fraction" name="windowFixedHeightMinor"/><attr format="dimension|fraction" name="windowFixedWidthMinor"/><attr format="dimension|fraction" name="windowFixedHeightMajor"/></declare-styleable>
+    <declare-styleable name="ActionMenuItemView"><attr name="android:minWidth"/></declare-styleable>
+    <declare-styleable name="ActionMenuView"/>
+    <declare-styleable name="ActionMode"><attr name="titleTextStyle"/><attr name="subtitleTextStyle"/><attr name="background"/><attr name="backgroundSplit"/><attr name="height"/></declare-styleable>
+    <declare-styleable name="ActivityChooserView"><attr format="string" name="initialActivityCount"/><attr format="reference" name="expandActivityOverflowButtonDrawable"/></declare-styleable>
+    <declare-styleable name="CompatTextView"><attr format="reference|boolean" name="textAllCaps"/></declare-styleable>
+    <declare-styleable name="LinearLayoutICS"><attr name="divider"/><attr name="showDividers"><flag name="none" value="0"/><flag name="beginning" value="1"/><flag name="middle" value="2"/><flag name="end" value="4"/></attr><attr format="dimension" name="dividerPadding"/></declare-styleable>
+    <declare-styleable name="MenuGroup"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:checkableBehavior"/><attr name="android:visible"/><attr name="android:enabled"/></declare-styleable>
+    <declare-styleable name="MenuItem"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:title"/><attr name="android:titleCondensed"/><attr name="android:icon"/><attr name="android:alphabeticShortcut"/><attr name="android:numericShortcut"/><attr name="android:checkable"/><attr name="android:checked"/><attr name="android:visible"/><attr name="android:enabled"/><attr name="android:onClick"/><attr name="showAsAction"><flag name="never" value="0"/><flag name="ifRoom" value="1"/><flag name="always" value="2"/><flag name="withText" value="4"/><flag name="collapseActionView" value="8"/></attr><attr format="reference" name="actionLayout"/><attr format="string" name="actionViewClass"/><attr format="string" name="actionProviderClass"/></declare-styleable>
+    <declare-styleable name="MenuView"><attr name="android:itemTextAppearance"/><attr name="android:horizontalDivider"/><attr name="android:verticalDivider"/><attr name="android:headerBackground"/><attr name="android:itemBackground"/><attr name="android:windowAnimationStyle"/><attr name="android:itemIconDisabledAlpha"/><attr name="android:preserveIconSpacing"/></declare-styleable>
+    <declare-styleable name="SearchView"><attr format="boolean" name="iconifiedByDefault"/><attr name="android:maxWidth"/><attr format="string" name="queryHint"/><attr name="android:imeOptions"/><attr name="android:inputType"/></declare-styleable>
+    <declare-styleable name="Spinner"><attr format="reference" name="prompt"/><attr format="enum" name="spinnerMode"><enum name="dialog" value="0"/><enum name="dropdown" value="1"/></attr><attr name="android:dropDownSelector"/><attr name="android:popupBackground"/><attr name="android:dropDownVerticalOffset"/><attr name="android:dropDownHorizontalOffset"/><attr name="android:dropDownWidth"/><attr format="reference" name="popupPromptView"/><attr name="android:gravity"/><attr format="boolean" name="disableChildrenWhenDisabled"/></declare-styleable>
+    <declare-styleable name="Theme"><attr format="reference" name="actionDropDownStyle"/><attr format="dimension" name="dropdownListPreferredItemHeight"/><attr format="reference" name="popupMenuStyle"/><attr format="dimension" name="panelMenuListWidth"/><attr format="reference" name="panelMenuListTheme"/><attr format="reference" name="listChoiceBackgroundIndicator"/></declare-styleable>
+    <declare-styleable name="View"><attr format="dimension" name="paddingStart"/><attr format="dimension" name="paddingEnd"/><attr name="android:focusable"/></declare-styleable>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="abc_action_bar_default_height">48dip</dimen>
+    <dimen name="abc_action_bar_icon_vertical_padding">8dip</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">40dp</dimen>
+    <dimen name="abc_action_bar_stacked_max_height">48dp</dimen>
+    <dimen name="abc_action_bar_stacked_tab_max_width">180dp</dimen>
+    <dimen name="abc_action_bar_subtitle_bottom_margin">5dip</dimen>
+    <dimen name="abc_action_bar_subtitle_text_size">14dp</dimen>
+    <dimen name="abc_action_bar_subtitle_top_margin">-3dp</dimen>
+    <dimen name="abc_action_bar_title_text_size">18dp</dimen>
+    <dimen name="abc_action_button_min_width">56dip</dimen>
+    <dimen name="abc_config_prefDialogWidth">320dp</dimen>
+    <dimen name="abc_dropdownitem_icon_width">32dip</dimen>
+    <dimen name="abc_dropdownitem_text_padding_left">8dip</dimen>
+    <dimen name="abc_dropdownitem_text_padding_right">8dip</dimen>
+    <dimen name="abc_panel_menu_list_width">296dp</dimen>
+    <dimen name="abc_search_view_preferred_width">320dip</dimen>
+    <dimen name="abc_search_view_text_min_width">160dip</dimen>
+    <item name="dialog_fixed_height_major" type="dimen">80%</item>
+    <item name="dialog_fixed_height_minor" type="dimen">100%</item>
+    <item name="dialog_fixed_width_major" type="dimen">320dp</item>
+    <item name="dialog_fixed_width_minor" type="dimen">320dp</item>
+    <item name="action_bar_activity_content" type="id"/>
+    <item name="action_menu_divider" type="id"/>
+    <item name="action_menu_presenter" type="id"/>
+    <item name="home" type="id"/>
+    <item name="progress_circular" type="id"/>
+    <item name="progress_horizontal" type="id"/>
+    <integer name="abc_max_action_buttons">2</integer>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/src/main/res/values/configuration.xml -->
+    <eat-comment/>
+    <integer name="attach_acctmgr_retries">5</integer>
+    <integer name="attach_attach_retries">5</integer>
+    <integer name="attach_creation_retries">5</integer>
+    <integer name="attach_get_project_config_retries">2</integer>
+    <integer name="attach_login_retries">5</integer>
+    <integer name="attach_step_interval_ms">1000</integer>
+    <integer name="autostart_notification_id">1</integer>
+    <integer name="device_status_update_screen_off_every_X_loop">10</integer>
+    <integer name="eventlog_gui_messages">100</integer>
+    <integer name="monitor_setup_connection_retry_attempts">10</integer>
+    <integer name="monitor_setup_connection_retry_rate_ms">1000</integer>
+    <integer name="notice_notification_id">2</integer>
+    <integer name="prefs_default_loglevel">2</integer>
+    <integer name="shutdown_graceful_os_check_attempts">5</integer>
+    <integer name="shutdown_graceful_os_check_rate_ms">1000</integer>
+    <integer name="shutdown_graceful_rpc_check_attempts">5</integer>
+    <integer name="shutdown_graceful_rpc_check_rate_ms">1000</integer>
+    <integer name="status_update_interval_ms">1000</integer>
+    <integer name="tasks_transistion_timeout_number_monitor_loops">15</integer>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml -->
+    <eat-comment/>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="abdo">Abdo Hey</string>
+    <string name="about_button">Return</string>
+    <string name="about_copyright">\u00A9 2003–2014 University of California, Berkeley.</string>
+    <string name="about_copyright_reserved">All Rights Reserved.</string>
+    <string name="about_credits">Thanks to the Max Planck Institute for Gravitational Physics, IBM Corporation and HTC Corporation for their support.</string>
+    <string name="about_name">BOINC</string>
+    <string name="about_name_long">Berkeley Open Infrastructure for Network Computing</string>
+    <string name="about_title">About</string>
+    <string name="about_version">Version</string>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/src/main/res/values/configuration.xml -->
+    <eat-comment/>
+    <string name="all_projects_list" translatable="false">all_projects_list.xml</string>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">BOINC</string>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/src/main/res/values/configuration.xml -->
+    <eat-comment/>
+    <string name="assets_dir_arm" translatable="false">armeabi-v7a/</string>
+    <string name="assets_dir_mips" translatable="false">mips/</string>
+    <string name="assets_dir_x86" translatable="false">x86/</string>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="attachproject_acctmgr_button">Add</string>
+    <string name="attachproject_acctmgr_header">Add account manager</string>
+    <string name="attachproject_acctmgr_header_name">User:</string>
+    <string name="attachproject_acctmgr_header_pwd">Password:</string>
+    <string name="attachproject_acctmgr_header_pwd_confirm">… Retype:</string>
+    <string name="attachproject_acctmgr_header_url">URL</string>
+    <string name="attachproject_acctmgr_list_desc">Use BOINC account manager to add and manage multiple projects</string>
+    <string name="attachproject_conflict_bad_password">Password incorrect</string>
+    <string name="attachproject_conflict_not_unique">Account exists with different password</string>
+    <string name="attachproject_conflict_undefined">Could not connect</string>
+    <string name="attachproject_conflict_unknown_user">Account does not exist</string>
+    <string name="attachproject_conflict_unknown_user_creation_disabled">Account does not exist, visit project website to register</string>
+    <string name="attachproject_conflicts_desc">There have been problems attaching scientific projects:</string>
+    <string name="attachproject_credential_input_desc">Enter account information for selected projects:</string>
+    <string name="attachproject_credential_input_show_pwd">Show password</string>
+    <string name="attachproject_credential_input_sing_desc">Enter account information</string>
+    <string name="attachproject_error_bad_pwd">Password refused</string>
+    <string name="attachproject_error_bad_username">User name refused</string>
+    <string name="attachproject_error_creation_disabled">Account creation is disabled on this project</string>
+    <string name="attachproject_error_email_bad_syntax">eMail refused</string>
+    <string name="attachproject_error_email_in_use">eMail is already in use</string>
+    <string name="attachproject_error_invalid_url">Invalid URL</string>
+    <string name="attachproject_error_no_email">Please enter eMail address</string>
+    <string name="attachproject_error_no_internet">Connection failure</string>
+    <string name="attachproject_error_no_name">Please enter user name</string>
+    <string name="attachproject_error_no_pwd">Please enter a password</string>
+    <string name="attachproject_error_no_url">Please enter URL</string>
+    <string name="attachproject_error_project_down">Project is offline</string>
+    <string name="attachproject_error_pwd_no_match">Passwords do not match</string>
+    <string name="attachproject_error_pwd_no_retype">Please type password again</string>
+    <string name="attachproject_error_short_pwd">Password too short</string>
+    <string name="attachproject_error_unknown">failed</string>
+    <string name="attachproject_error_wrong_name">User not found</string>
+    <string name="attachproject_hint_contribtion_charger">2. Plug in Charger</string>
+    <string name="attachproject_hint_contribtion_header">How to contribute:</string>
+    <string name="attachproject_hint_contribtion_screen">3. Turn off Screen</string>
+    <string name="attachproject_hint_contribtion_wifi">1. Connect to WiFi</string>
+    <string name="attachproject_hint_platforms_header">BOINC is also available for your computer or laptop, visit boinc.berkeley.edu to learn more.</string>
+    <string name="attachproject_hint_projectwebsite_community">Get in touch with other volunteers</string>
+    <string name="attachproject_hint_projectwebsite_header">Visit project websites to:</string>
+    <string name="attachproject_hint_projectwebsite_science">Learn more about the science</string>
+    <string name="attachproject_hint_projectwebsite_stats">View contribution statistics</string>
+    <string name="attachproject_hints_header">Hint</string>
+    <string name="attachproject_individual_credential_input">Attach projects individually</string>
+    <string name="attachproject_list_acctmgr_button">Add account manager</string>
+    <string name="attachproject_list_desc">Select scientific projects you want to contribute to:</string>
+    <string name="attachproject_list_header">Choose a project</string>
+    <string name="attachproject_list_manual_button">Add project by URL</string>
+    <string name="attachproject_list_manual_dialog_button">Add project</string>
+    <string name="attachproject_list_manual_dialog_title">Enter project URL:</string>
+    <string name="attachproject_list_manual_no_url">Please enter project URL</string>
+    <string name="attachproject_list_no_internet">No Internet connection</string>
+    <string name="attachproject_login_accept_terms_of_use">By creating an account with this project, you accept the terms of use as shown above.</string>
+    <string name="attachproject_login_attached">Attached</string>
+    <string name="attachproject_login_button_forgotpw">Forgot Password</string>
+    <string name="attachproject_login_button_login">Sign in</string>
+    <string name="attachproject_login_button_registration">Register</string>
+    <string name="attachproject_login_category_creation">New to </string>
+    <string name="attachproject_login_category_login">Sign in with existing account</string>
+    <string name="attachproject_login_category_terms_of_use">Terms of use for</string>
+    <string name="attachproject_login_error_toast">Contacting project failed!</string>
+    <string name="attachproject_login_header_creation_client_disabled">Visit project website to create an account:</string>
+    <string name="attachproject_login_header_creation_disabled">This project is not currently accepting new accounts.</string>
+    <string name="attachproject_login_header_creation_enabled">Register an account to participate:</string>
+    <string name="attachproject_login_header_description">Description:</string>
+    <string name="attachproject_login_header_general_area">General area:</string>
+    <string name="attachproject_login_header_home">Home:</string>
+    <string name="attachproject_login_header_id_email">eMail:</string>
+    <string name="attachproject_login_header_id_name">Name:</string>
+    <string name="attachproject_login_header_platform">Android:</string>
+    <string name="attachproject_login_header_pwd">Password:</string>
+    <string name="attachproject_login_header_specific_area">Specific area:</string>
+    <string name="attachproject_login_header_url">Website:</string>
+    <string name="attachproject_login_image_description">Project logo.</string>
+    <string name="attachproject_login_loading">Contacting project server…</string>
+    <string name="attachproject_login_platform_not_supported">Device is not supported by this project</string>
+    <string name="attachproject_login_platform_supported">Device type is supported by this project</string>
+    <string name="attachproject_registration_button">Create</string>
+    <string name="attachproject_registration_header">Account registration for </string>
+    <string name="attachproject_registration_header_email">eMail:</string>
+    <string name="attachproject_registration_header_pwd">Password:</string>
+    <string name="attachproject_registration_header_pwd_confirm">… Retype:</string>
+    <string name="attachproject_registration_header_teamname">Team:</string>
+    <string name="attachproject_registration_header_url">Project:</string>
+    <string name="attachproject_registration_header_username">Name:</string>
+    <string name="attachproject_working_acctmgr">Add account manager</string>
+    <string name="attachproject_working_acctmgr_sync">Synchronize</string>
+    <string name="attachproject_working_attaching">Attaching</string>
+    <string name="attachproject_working_back_button">Back</string>
+    <string name="attachproject_working_check_desc">Successful</string>
+    <string name="attachproject_working_connect">Connect</string>
+    <string name="attachproject_working_description">:</string>
+    <string name="attachproject_working_failed_desc">Failed</string>
+    <string name="attachproject_working_finish_button">Finish</string>
+    <string name="attachproject_working_finished">.</string>
+    <string name="attachproject_working_login">Log in</string>
+    <string name="attachproject_working_ongoing">…</string>
+    <string name="attachproject_working_register">Register account</string>
+    <string name="attachproject_working_verify">Verify account</string>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/src/main/res/values/configuration.xml -->
+    <eat-comment/>
+    <string name="auth_file_name" translatable="false">gui_rpc_auth.cfg</string>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="battery_charge_min_pct_description">BOINC suspends computation below defined battery charge level.</string>
+    <string name="battery_charge_min_pct_header">Min. battery level</string>
+    <string name="battery_temperature_max_description">BOINC suspends computation above defined battery temperature. It is not recommended to change this value.</string>
+    <string name="battery_temperature_max_header">Max. battery temperature</string>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/src/main/res/values/configuration.xml -->
+    <eat-comment/>
+    <string name="boinc_platform_name_arm" translatable="false">arm-android-linux-gnu</string>
+    <string name="boinc_platform_name_mips" translatable="false">mipsel-android-linux-gnu</string>
+    <string name="boinc_platform_name_x86" translatable="false">x86-android-linux-gnu</string>
+    <string name="client_cabundle" translatable="false">ca-bundle.crt</string>
+    <string name="client_cli" translatable="false">boinccmd</string>
+    <string name="client_config" translatable="false">cc_config.xml</string>
+    <string name="client_name" translatable="false">boinc</string>
+    <string name="client_path" translatable="false">/data/data/edu.berkeley.boinc/client/</string>
+    <string name="client_socket_address" translatable="false">edu_berkeley_boinc_client_socket</string>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="confirm_abort_task_confirm">Abort</string>
+    <string name="confirm_abort_task_message">Abort task:</string>
+    <string name="confirm_abort_task_title">Abort task?</string>
+    <string name="confirm_abort_trans_confirm">Abort</string>
+    <string name="confirm_abort_trans_message">Abort File:</string>
+    <string name="confirm_abort_trans_title">Abort transfer?</string>
+    <string name="confirm_cancel">Cancel</string>
+    <string name="confirm_image_desc">Confirmation dialog</string>
+    <string name="eventlog_client_header">Client Messages</string>
+    <string name="eventlog_copy_toast">Log copied to clipboard.</string>
+    <string name="eventlog_email_subject">Event Log for BOINC on Android:</string>
+    <string name="eventlog_gui_header">GUI Messages</string>
+    <string name="eventlog_loading">Loading log messages…</string>
+    <string name="generic_button_continue">Continue</string>
+    <string name="generic_button_finish">Finish</string>
+    <string name="generic_loading">Loading! Please wait…</string>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/src/main/res/values/configuration.xml -->
+    <eat-comment/>
+    <string name="global_prefs_override" translatable="false">global_prefs_override.xml</string>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="main_error">Whooops</string>
+    <string name="main_error_long">…this should not happen!\nClick on the icon to try again.</string>
+    <string name="main_noproject_warning">Tap here to choose a project.</string>
+    <string name="main_title_icon_desc">BOINC icon</string>
+    <string name="menu_about">About</string>
+    <string name="menu_copy">Copy to Clipboard</string>
+    <string name="menu_emailto">Send as Email</string>
+    <string name="menu_eventlog">Event Log</string>
+    <string name="menu_exit">Exit BOINC</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_run_mode_disable">Suspend</string>
+    <string name="menu_run_mode_enable">Resume</string>
+    <string name="nonexcl_dialog_exit">Exit</string>
+    <string name="nonexcl_dialog_header">Volunteer computing app detected</string>
+    <string name="nonexcl_dialog_text">Another volunteer computing app is running on this device. Only one version can run at a time.</string>
+    <string name="notice_notification_multiple_header">new notices</string>
+    <string name="notice_notification_single_header">New notice from</string>
+    <string name="notices_loading">Reading notices…</string>
+    <string name="prefs_autostart_header">Autostart</string>
+    <string name="prefs_category_cpu">CPU</string>
+    <string name="prefs_category_debug">Debug</string>
+    <string name="prefs_category_general">General</string>
+    <string name="prefs_category_memory">Memory</string>
+    <string name="prefs_category_network">Network</string>
+    <string name="prefs_category_power">Power</string>
+    <string name="prefs_category_storage">Storage</string>
+    <string name="prefs_client_log_flags_header">BOINC Client log flags</string>
+    <string name="prefs_cpu_number_cpus_description">Limits the number of CPU cores BOINC uses for computation.</string>
+    <string name="prefs_cpu_number_cpus_header">Used CPU cores</string>
+    <string name="prefs_cpu_other_load_suspension_description">Determines when BOINC pauses computation due to other apps\' CPU usage.</string>
+    <string name="prefs_cpu_other_load_suspension_header">Pause at CPU usage above</string>
+    <string name="prefs_cpu_time_max_description">Limits the CPU time BOINC uses for computation.</string>
+    <string name="prefs_cpu_time_max_header">CPU limit</string>
+    <string name="prefs_dialog_title">Enter new value:</string>
+    <string name="prefs_dialog_title_selection">Select:</string>
+    <string name="prefs_disk_access_interval_description">Suggests an interval between disk accesses</string>
+    <string name="prefs_disk_access_interval_header">Access interval</string>
+    <string name="prefs_disk_max_pct_description">How many percent of your device\'s storage space is BOINC allowed to use?</string>
+    <string name="prefs_disk_max_pct_header">Max. used storage space</string>
+    <string name="prefs_disk_min_free_gb_description">How much of your device\'s storage space shall stay free?</string>
+    <string name="prefs_disk_min_free_gb_header">Min. spare storage</string>
+    <string name="prefs_gui_log_level_description">Specifies verbosity of GUI log messages.</string>
+    <string name="prefs_gui_log_level_header">GUI log level</string>
+    <string name="prefs_loading">Reading preferences…</string>
+    <string name="prefs_memory_max_idle_description">Limits the amount of RAM tasks are allowed to occupy.</string>
+    <string name="prefs_memory_max_idle_header">RAM limit</string>
+    <string name="prefs_network_daily_xfer_limit_mb_description">Limits the daily data traffic caused by BOINC.</string>
+    <string name="prefs_network_daily_xfer_limit_mb_header">Daily transfer limit</string>
+    <string name="prefs_network_wifi_only_header">Transfer tasks on WiFi only</string>
+    <string name="prefs_power_source_ac">Wall socket</string>
+    <string name="prefs_power_source_battery">Battery</string>
+    <string name="prefs_power_source_description">Selects power sources BOINC is allowed to use for computation.</string>
+    <string name="prefs_power_source_header">Power sources for computation</string>
+    <string name="prefs_power_source_usb">USB connection</string>
+    <string name="prefs_power_source_wireless">Wireless charger</string>
+    <string name="prefs_show_advanced_header">Show advanced preferences and controls…</string>
+    <string name="prefs_show_notification_notices_header">Show notification for new notices</string>
+    <string name="prefs_show_notification_suspended_header">Show notification when suspended</string>
+    <string name="prefs_stationary_device_mode_description">Allows computation regardless of Power preferences. Only enable if device does not have a battery.</string>
+    <string name="prefs_stationary_device_mode_header">Stationary device mode</string>
+    <string name="prefs_submit_button">Save</string>
+    <string name="prefs_suspend_when_screen_on">Pause computation when screen is on</string>
+    <string name="prefs_unit_celcius">°C</string>
+    <string name="prefs_unit_gb">GB</string>
+    <string name="prefs_unit_mb">MB</string>
+    <string name="prefs_unit_pct">%</string>
+    <string name="prefs_unit_seconds">sec</string>
+    <string name="projects_add">Add project</string>
+    <string name="projects_confirm_detach_confirm">Remove</string>
+    <string name="projects_confirm_detach_message">Are you sure you want to remove</string>
+    <string name="projects_confirm_detach_message2">from BOINC?</string>
+    <string name="projects_confirm_detach_title">Remove project?</string>
+    <string name="projects_confirm_remove_acctmgr_confirm">Disable</string>
+    <string name="projects_confirm_remove_acctmgr_message">Are you sure you want to stop using</string>
+    <string name="projects_confirm_remove_acctmgr_message2">\?</string>
+    <string name="projects_confirm_remove_acctmgr_title">Disable account manager</string>
+    <string name="projects_confirm_reset_confirm">Reset</string>
+    <string name="projects_confirm_reset_message">Are you sure you want to reset</string>
+    <string name="projects_confirm_reset_message2">\?</string>
+    <string name="projects_confirm_reset_title">Reset project</string>
+    <string name="projects_control_allownewtasks">Allow new tasks</string>
+    <string name="projects_control_dialog_title">Project commands:</string>
+    <string name="projects_control_dialog_title_acctmgr">Account manager commands:</string>
+    <string name="projects_control_nonewtasks">No new tasks</string>
+    <string name="projects_control_remove">Remove</string>
+    <string name="projects_control_remove_acctmgr">Disable</string>
+    <string name="projects_control_reset">Reset</string>
+    <string name="projects_control_resume">Resume</string>
+    <string name="projects_control_suspend">Suspend</string>
+    <string name="projects_control_sync_acctmgr">Synchronize</string>
+    <string name="projects_control_update">Update</string>
+    <string name="projects_control_visit_website">Visit website</string>
+    <string name="projects_credits_header">Credit:</string>
+    <string name="projects_credits_host_header">(on this device)</string>
+    <string name="projects_credits_user_header">(total)</string>
+    <string name="projects_icon">Project icon</string>
+    <string name="projects_loading">Reading projects…</string>
+    <string name="projects_status_backoff">Communication scheduled in:</string>
+    <string name="projects_status_detachwhendone">Will remove when tasks done</string>
+    <string name="projects_status_dontrequestmorework">Won\'t get new tasks</string>
+    <string name="projects_status_ended">Project ended - OK to remove</string>
+    <string name="projects_status_schedrpcinprogress">Scheduler request in progress</string>
+    <string name="projects_status_schedrpcpending">Scheduler request pending</string>
+    <string name="projects_status_suspendedviagui">Suspended by user</string>
+    <string name="projects_status_trickleuppending">Trickle up message pending</string>
+    <string name="rpcreason_acctmgrreq">Requested by account manager</string>
+    <string name="rpcreason_init">Project initialization</string>
+    <string name="rpcreason_needwork">To fetch work</string>
+    <string name="rpcreason_projectreq">Requested by project</string>
+    <string name="rpcreason_resultsdue">To report completed tasks</string>
+    <string name="rpcreason_trickleup">To send trickle-up message</string>
+    <string name="rpcreason_unknown">Unknown reason</string>
+    <string name="rpcreason_userreq">Requested by user</string>
+    <string name="social_invite_button">Invite friends</string>
+    <string name="social_invite_content_body">I\'m using my %1$s to do computing for science. You can too! Download the app from: %2$s</string>
+    <string name="social_invite_content_title">I\'m doing science on my smartphone!</string>
+    <string name="social_invite_content_url">https://play.google.com/store/apps/details?id=edu.berkeley.boinc</string>
+    <string name="social_invite_intent_title">How do you want to share?</string>
+    <string name="status_benchmarking">Benchmarking…</string>
+    <string name="status_closing">Closing…</string>
+    <string name="status_computing_disabled">Suspended</string>
+    <string name="status_computing_disabled_long">Press play to resume network and computation.</string>
+    <string name="status_idle">Nothing to do</string>
+    <string name="status_idle_long">Waiting for tasks…</string>
+    <string name="status_image_description">project image</string>
+    <string name="status_launching">Starting…</string>
+    <string name="status_noproject">Choose a project to participate in.</string>
+    <string name="status_paused">Suspended</string>
+    <string name="status_running">Computing</string>
+    <string name="status_running_long">Thank you for participating.</string>
+    <string name="suspend_batteries">Connect your device to a charger to continue computing.</string>
+    <string name="suspend_battery_charging">Waiting for battery to charge.</string>
+    <string name="suspend_battery_charging_current">currently</string>
+    <string name="suspend_battery_charging_long">Computing will resume when battery charge reaches</string>
+    <string name="suspend_battery_charging_long2"/>
+    <string name="suspend_battery_overheating">Waiting for battery to cool down</string>
+    <string name="suspend_bm">BOINC is benchmarking your device…</string>
+    <string name="suspend_cpu">Your device is busy with other apps.</string>
+    <string name="suspend_cputhrottle">Scheduled CPU throttle.</string>
+    <string name="suspend_delay">Initialization delay.</string>
+    <string name="suspend_disksize">Out of disk space.</string>
+    <string name="suspend_exclusiveapp">An exclusive app is running.</string>
+    <string name="suspend_network_quota">BOINC reached network transfer limit.</string>
+    <string name="suspend_network_user_req">manually.</string>
+    <string name="suspend_noinput">No recent user activity.</string>
+    <string name="suspend_os">Stopped by Android.</string>
+    <string name="suspend_screen_on">Turn screen off to continue computing.</string>
+    <string name="suspend_tod">Out of computation time-frame.</string>
+    <string name="suspend_unknown">Computation suspended.</string>
+    <string name="suspend_user_req">Resuming computation…</string>
+    <string name="suspend_useractive">User is active.</string>
+    <string name="suspend_wifi">Not connected to WiFi.</string>
+    <string name="tab_desc">Navigation</string>
+    <string name="tab_notices">Notices</string>
+    <string name="tab_preferences">Preferences</string>
+    <string name="tab_projects">Projects</string>
+    <string name="tab_status">Status</string>
+    <string name="tab_tasks">Tasks</string>
+    <string name="tab_transfers">Transfers</string>
+    <string name="tasks_active_abort_pending">suspending</string>
+    <string name="tasks_active_executing">running</string>
+    <string name="tasks_active_quit_pending">suspending</string>
+    <string name="tasks_active_suspended">suspended</string>
+    <string name="tasks_active_uninitialized">ready</string>
+    <string name="tasks_custom_project_suspended_via_gui">project suspended</string>
+    <string name="tasks_custom_ready_to_report">ready to report</string>
+    <string name="tasks_custom_suspended_via_gui">suspended</string>
+    <string name="tasks_header_deadline">Deadline:</string>
+    <string name="tasks_header_elapsed_time">Elapsed time:</string>
+    <string name="tasks_header_name">Task Name:</string>
+    <string name="tasks_header_project_paused">(suspended)</string>
+    <string name="tasks_result_aborted">aborted</string>
+    <string name="tasks_result_compute_error">computation error</string>
+    <string name="tasks_result_files_downloaded">download complete</string>
+    <string name="tasks_result_files_downloading">waiting for download</string>
+    <string name="tasks_result_files_uploaded">upload complete</string>
+    <string name="tasks_result_files_uploading">uploading</string>
+    <string name="tasks_result_new">new</string>
+    <string name="tasks_result_upload_failed">upload failed</string>
+    <string name="trans_active">active</string>
+    <string name="trans_control_retry">Retry transfers</string>
+    <string name="trans_download">Download</string>
+    <string name="trans_failed">failed</string>
+    <string name="trans_header_name">File:</string>
+    <string name="trans_loading">Reading transfers…</string>
+    <string name="trans_pending">pending</string>
+    <string name="trans_projectbackoff">project backoff</string>
+    <string name="trans_retryin">retry in</string>
+    <string name="trans_suspended">suspended</string>
+    <string name="trans_upload">Upload</string>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/src/main/res/values/theme.xml -->
+    <eat-comment/>
+    <style name="CustomListView" parent="@android:style/Widget.ListView">
+		<item name="android:background">@color/white_smoke</item>
+		<item name="android:cacheColorHint">@color/lightest_blue</item>
+		<item name="android:divider">@color/lightest_blue</item>
+		<item name="android:dividerHeight">1dp</item>
+	</style>
+    <style name="StyledActionBar" parent="@style/Widget.AppCompat.Light.ActionBar">
+    	<item name="background">@drawable/shape_dark_blue_gradient_background</item>
+    	<item name="backgroundStacked">@color/dark_blue</item>
+    	<item name="titleTextStyle">@style/StyledActionBarTitleText</item>
+	</style>
+    <style name="StyledActionBarTabView" parent="@style/Widget.AppCompat.ActionBar.TabView">
+   		<item name="android:gravity">center</item>
+    </style>
+    <style name="StyledActionBarTitleText" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+    	<item name="android:textColor">@android:color/white</item>
+  	</style>
+    <style name="SubHeader">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">5dp</item>
+     	<item name="android:singleLine">true</item>
+    	<item name="android:background">@drawable/shape_light_blue_background</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml -->
+    <eat-comment/>
+    <style name="TextAppearance.AppCompat.Base.CompactMenu.Dialog" parent="android:TextAppearance.Medium">
+        <item name="android:textColor">@android:color/primary_text_light</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Base.SearchResult" parent="">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorHint">?android:textColorHint</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Base.SearchResult.Subtitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Base.SearchResult.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Base.Widget.PopupMenu.Large" parent="android:TextAppearance.Widget">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Base.Widget.PopupMenu.Small" parent="android:TextAppearance.Widget">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Light.Base.SearchResult" parent="TextAppearance.AppCompat.Base.SearchResult">
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorHint">?android:textColorHint</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Light.Base.SearchResult.Subtitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Light.Base.SearchResult.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Large"/>
+    <style name="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Small"/>
+    <style name="TextAppearance.AppCompat.Light.SearchResult.Subtitle" parent="TextAppearance.AppCompat.Light.Base.SearchResult.Subtitle"/>
+    <style name="TextAppearance.AppCompat.Light.SearchResult.Title" parent="TextAppearance.AppCompat.Light.Base.SearchResult.Title"/>
+    <style name="TextAppearance.AppCompat.Light.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Large"/>
+    <style name="TextAppearance.AppCompat.Light.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Small"/>
+    <style name="TextAppearance.AppCompat.SearchResult.Subtitle" parent="TextAppearance.AppCompat.Base.SearchResult.Subtitle"/>
+    <style name="TextAppearance.AppCompat.SearchResult.Title" parent="TextAppearance.AppCompat.Base.SearchResult.Title"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Menu" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Menu"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Subtitle" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Subtitle"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Subtitle.Inverse"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Title" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Title"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Title.Inverse"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Subtitle" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Subtitle"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Subtitle.Inverse" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Subtitle.Inverse"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Title" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Title"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Title.Inverse" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Title.Inverse"/>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Menu" parent="android:TextAppearance.Small">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?attr/actionMenuTextColor</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Subtitle" parent="android:TextAppearance.Small">
+        <item name="android:textSize">@dimen/abc_action_bar_subtitle_text_size</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Subtitle.Inverse" parent="android:TextAppearance.Small.Inverse">
+        <item name="android:textSize">@dimen/abc_action_bar_subtitle_text_size</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Title" parent="android:TextAppearance.Medium">
+        <item name="android:textSize">@dimen/abc_action_bar_title_text_size</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Title.Inverse" parent="android:TextAppearance.Medium.Inverse">
+        <item name="android:textSize">@dimen/abc_action_bar_title_text_size</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Subtitle" parent="android:TextAppearance.Small">
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Subtitle.Inverse" parent="android:TextAppearance.Small.Inverse">
+        <item name="android:textColor">?android:attr/textColorSecondaryInverse</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Title" parent="android:TextAppearance.Medium"/>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Title.Inverse" parent="android:TextAppearance.Medium.Inverse"/>
+    <style name="TextAppearance.AppCompat.Widget.Base.DropDownItem" parent="android:TextAppearance.Small">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.DropDownItem" parent="TextAppearance.AppCompat.Widget.Base.DropDownItem"/>
+    <style name="TextAppearance.AppCompat.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Large"/>
+    <style name="TextAppearance.AppCompat.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Small"/>
+    <style name="TextAppearance.Widget.AppCompat.Base.ExpandedMenu.Item" parent="android:TextAppearance.Medium">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+    </style>
+    <style name="TextAppearance.Widget.AppCompat.ExpandedMenu.Item" parent="TextAppearance.Widget.AppCompat.Base.ExpandedMenu.Item"/>
+    <style name="Theme.AppCompat" parent="Theme.Base.AppCompat">
+        <item name="isLightTheme">false</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="spinnerDropDownItemStyle">            @style/Widget.AppCompat.DropDownItem.Spinner</item>
+        <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+        <item name="searchResultListItemHeight">58dip</item>
+
+        <!-- Popup Menu styles -->
+        <item name="popupMenuStyle">@style/Widget.AppCompat.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">            @style/TextAppearance.AppCompat.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">            @style/TextAppearance.AppCompat.Widget.PopupMenu.Small</item>
+        <item name="listPopupWindowStyle">@style/Widget.AppCompat.ListPopupWindow</item>
+        <item name="dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+
+        <!-- SearchView attributes -->
+        <item name="searchDropdownBackground">@drawable/abc_search_dropdown_dark</item>
+        <item name="searchViewTextField">@drawable/abc_textfield_searchview_holo_dark</item>
+        <item name="searchViewTextFieldRight">@drawable/abc_textfield_searchview_right_holo_dark</item>
+        <item name="searchViewCloseIcon">@drawable/abc_ic_clear</item>
+        <item name="searchViewSearchIcon">@drawable/abc_ic_search</item>
+        <item name="searchViewGoIcon">@drawable/abc_ic_go</item>
+        <item name="searchViewVoiceIcon">@drawable/abc_ic_voice_search</item>
+        <item name="searchViewEditQuery">@drawable/abc_ic_commit_search_api_holo_dark</item>
+        <item name="searchViewEditQueryBackground">?attr/selectableItemBackground</item>
+        <item name="searchViewAutoCompleteTextView">            @style/Widget.AppCompat.AutoCompleteTextView</item>
+        <item name="textColorSearchUrl">@color/abc_search_url_text_holo</item>
+        <item name="textAppearanceSearchResultTitle">            @style/TextAppearance.AppCompat.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">            @style/TextAppearance.AppCompat.SearchResult.Subtitle</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_holo_dark</item>
+
+        <!-- ShareActionProvider attributes -->
+        <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
+    </style>
+    <style name="Theme.AppCompat.Base.CompactMenu" parent="">
+        <item name="android:itemTextAppearance">            @style/TextAppearance.Widget.AppCompat.ExpandedMenu.Item</item>
+        <item name="android:listViewStyle">@style/Widget.AppCompat.ListView.Menu</item>
+    </style>
+    <style name="Theme.AppCompat.Base.CompactMenu.Dialog" parent="">
+        <item name="android:itemTextAppearance">            @style/TextAppearance.AppCompat.Base.CompactMenu.Dialog</item>
+        <item name="android:listViewStyle">@android:style/Widget.ListView.Menu</item>
+    </style>
+    <style name="Theme.AppCompat.CompactMenu" parent="Theme.AppCompat.Base.CompactMenu"/>
+    <style name="Theme.AppCompat.CompactMenu.Dialog" parent="Theme.AppCompat.Base.CompactMenu.Dialog"/>
+    <style name="Theme.AppCompat.DialogWhenLarge" parent="Theme.Base.AppCompat.DialogWhenLarge"/>
+    <style name="Theme.AppCompat.Light" parent="Theme.Base.AppCompat.Light">
+        <item name="isLightTheme">true</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="spinnerDropDownItemStyle">            @style/Widget.AppCompat.Light.DropDownItem.Spinner</item>
+        <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+        <item name="searchResultListItemHeight">58dip</item>
+
+        <!-- Popup Menu styles -->
+        <item name="popupMenuStyle">@style/Widget.AppCompat.Light.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Small</item>
+        <item name="listPopupWindowStyle">@style/Widget.AppCompat.Light.ListPopupWindow</item>
+        <item name="dropDownListViewStyle">@style/Widget.AppCompat.Light.ListView.DropDown</item>
+
+        <!-- SearchView attributes -->
+        <item name="searchDropdownBackground">@drawable/abc_search_dropdown_light</item>
+        <item name="searchViewTextField">@drawable/abc_textfield_searchview_holo_light</item>
+        <item name="searchViewTextFieldRight">@drawable/abc_textfield_searchview_right_holo_light</item>
+        <item name="searchViewCloseIcon">@drawable/abc_ic_clear_holo_light</item>
+        <item name="searchViewSearchIcon">@drawable/abc_ic_search_api_holo_light</item>
+        <item name="searchViewGoIcon">@drawable/abc_ic_go_search_api_holo_light</item>
+        <item name="searchViewVoiceIcon">@drawable/abc_ic_voice_search_api_holo_light</item>
+        <item name="searchViewEditQuery">@drawable/abc_ic_commit_search_api_holo_light</item>
+        <item name="searchViewEditQueryBackground">?attr/selectableItemBackground</item>
+        <item name="searchViewAutoCompleteTextView">            @style/Widget.AppCompat.Light.AutoCompleteTextView</item>
+        <item name="textColorSearchUrl">@color/abc_search_url_text_holo</item>
+        <item name="textAppearanceSearchResultTitle">            @style/TextAppearance.AppCompat.Light.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">            @style/TextAppearance.AppCompat.Light.SearchResult.Subtitle</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_holo_light</item>
+
+        <!-- ShareActionProvider attributes -->
+        <item name="activityChooserViewStyle">@style/Widget.AppCompat.Light.ActivityChooserView</item>
+    </style>
+    <style name="Theme.AppCompat.Light.DarkActionBar" parent="Theme.Base.AppCompat.Light.DarkActionBar">
+        <item name="isLightTheme">true</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="spinnerDropDownItemStyle">            @style/Widget.AppCompat.Light.DropDownItem.Spinner</item>
+        <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+        <item name="searchResultListItemHeight">58dip</item>
+
+        <!-- Popup Menu styles -->
+        <item name="popupMenuStyle">@style/Widget.AppCompat.Light.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Small</item>
+        <item name="listPopupWindowStyle">@style/Widget.AppCompat.ListPopupWindow</item>
+        <item name="dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+
+        <!-- SearchView attributes -->
+        <item name="searchDropdownBackground">@drawable/abc_search_dropdown_dark</item>
+        <item name="searchViewTextField">@drawable/abc_textfield_searchview_holo_dark</item>
+        <item name="searchViewTextFieldRight">@drawable/abc_textfield_searchview_right_holo_dark</item>
+        <item name="searchViewCloseIcon">@drawable/abc_ic_clear</item>
+        <item name="searchViewSearchIcon">@drawable/abc_ic_search</item>
+        <item name="searchViewGoIcon">@drawable/abc_ic_go</item>
+        <item name="searchViewVoiceIcon">@drawable/abc_ic_voice_search</item>
+        <item name="searchViewEditQuery">@drawable/abc_ic_commit_search_api_holo_dark</item>
+        <item name="searchViewEditQueryBackground">?attr/selectableItemBackground</item>
+        <item name="searchViewAutoCompleteTextView">            @style/Widget.AppCompat.AutoCompleteTextView</item>
+        <item name="textColorSearchUrl">@color/abc_search_url_text_holo</item>
+        <item name="textAppearanceSearchResultTitle">            @style/TextAppearance.AppCompat.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">            @style/TextAppearance.AppCompat.SearchResult.Subtitle</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_holo_dark</item>
+
+        <!-- ShareActionProvider attributes -->
+        <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
+    </style>
+    <style name="Theme.AppCompat.Light.DialogWhenLarge" parent="Theme.Base.AppCompat.Light.DialogWhenLarge"/>
+    <style name="Theme.Base" parent="android:Theme"/>
+    <style name="Theme.Base.AppCompat" parent="Theme.Base">
+        <item name="windowActionBar">true</item>
+        <!-- Remove system title bars; we will add the action bar ourselves. -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="buttonBarStyle">@android:style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_dark</item>
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_holo_dark</item>
+        <item name="dividerVertical">@drawable/abc_list_divider_holo_dark</item>
+        <item name="dividerHorizontal">@drawable/abc_list_divider_holo_dark</item>
+        <item name="listPreferredItemHeight">?android:attr/listPreferredItemHeight</item>
+        <item name="listPreferredItemHeightSmall">48dp</item>
+        <item name="listPreferredItemHeightLarge">80dp</item>
+        <item name="listPreferredItemPaddingLeft">8dip</item>
+        <item name="listPreferredItemPaddingRight">8dip</item>
+        <item name="textAppearanceListItem">?android:attr/textAppearanceMedium</item>
+        <item name="textAppearanceListItemSmall">?android:attr/textAppearanceMedium</item>
+        <item name="actionBarTabStyle">@style/Widget.AppCompat.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.ActionBar.TabText</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.ActionBar</item>
+        <item name="actionBarSplitStyle">?attr/actionBarStyle</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="actionBarSize">@dimen/abc_action_bar_default_height</item>
+        <item name="actionBarDivider">?attr/dividerVertical</item>
+        <item name="actionBarItemBackground">?attr/selectableItemBackground</item>
+        <item name="actionMenuTextAppearance">            @style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryDisableOnly</item>
+
+        <!-- Dropdown Spinner Attributes -->
+        <item name="actionDropDownStyle">@style/Widget.AppCompat.Spinner.DropDown.ActionBar</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_holo_dark</item>
+        <item name="actionModeSplitBackground">@drawable/abc_cab_background_bottom_holo_dark</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_cab_done_holo_dark</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
+
+        <!-- Panel attributes -->
+        <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
+        <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
+        <item name="android:panelBackground">@drawable/abc_menu_hardkey_panel_holo_dark</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
+    </style>
+    <style name="Theme.Base.AppCompat.Dialog.FixedSize" parent="android:Theme.Dialog">
+        <item name="windowFixedWidthMajor">@dimen/dialog_fixed_width_major</item>
+        <item name="windowFixedWidthMinor">@dimen/dialog_fixed_width_minor</item>
+        <item name="windowFixedHeightMajor">@dimen/dialog_fixed_height_major</item>
+        <item name="windowFixedHeightMinor">@dimen/dialog_fixed_height_minor</item>
+        <item name="windowActionBar">true</item>
+        <!-- Remove system title bars; we will add the action bar ourselves. -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="buttonBarStyle">@android:style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_dark</item>
+        <item name="dividerVertical">@drawable/abc_list_divider_holo_dark</item>
+        <item name="dividerHorizontal">@drawable/abc_list_divider_holo_dark</item>
+        <item name="listPreferredItemHeight">?android:attr/listPreferredItemHeight</item>
+        <item name="listPreferredItemHeightSmall">48dp</item>
+        <item name="listPreferredItemHeightLarge">80dp</item>
+        <item name="listPreferredItemPaddingLeft">8dip</item>
+        <item name="listPreferredItemPaddingRight">8dip</item>
+        <item name="textAppearanceListItem">?android:attr/textAppearanceMedium</item>
+        <item name="textAppearanceListItemSmall">?android:attr/textAppearanceMedium</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_holo_dark</item>
+        <item name="actionModeSplitBackground">@drawable/abc_cab_background_bottom_holo_dark</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_cab_done_holo_dark</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
+
+        <!-- Panel attributes -->
+        <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
+        <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
+        <item name="android:panelBackground">@drawable/abc_menu_hardkey_panel_holo_dark</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
+    </style>
+    <style name="Theme.Base.AppCompat.Dialog.Light.FixedSize" parent="Theme.Base.AppCompat.Dialog.FixedSize"/>
+    <style name="Theme.Base.AppCompat.DialogWhenLarge" parent="Theme.Base.AppCompat"/>
+    <style name="Theme.Base.AppCompat.Light" parent="Theme.Base.Light">
+        <item name="windowActionBar">true</item>
+        <!-- Remove system title bars; we will add the action bar ourselves. -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="buttonBarStyle">@android:style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_light</item>
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_holo_light</item>
+        <item name="dividerVertical">@drawable/abc_list_divider_holo_light</item>
+        <item name="dividerHorizontal">@drawable/abc_list_divider_holo_light</item>
+        <item name="listPreferredItemHeight">?android:attr/listPreferredItemHeight</item>
+        <item name="listPreferredItemHeightSmall">48dp</item>
+        <item name="listPreferredItemHeightLarge">80dp</item>
+        <item name="listPreferredItemPaddingLeft">8dip</item>
+        <item name="listPreferredItemPaddingRight">8dip</item>
+        <item name="textAppearanceListItem">?android:attr/textAppearanceMedium</item>
+        <item name="textAppearanceListItemSmall">?android:attr/textAppearanceMedium</item>
+
+        <!-- Action Bar Styles -->
+        <item name="actionBarTabStyle">@style/Widget.AppCompat.Light.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.Light.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.Light.ActionBar.TabText</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.Light.ActionButton</item>
+        <item name="actionOverflowButtonStyle">            @style/Widget.AppCompat.Light.ActionButton.Overflow</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.Light.ActionBar</item>
+        <item name="actionBarSplitStyle">?attr/actionBarStyle</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="actionBarSize">@dimen/abc_action_bar_default_height</item>
+        <item name="actionBarDivider">?attr/dividerVertical</item>
+        <item name="actionBarItemBackground">?attr/selectableItemBackground</item>
+        <item name="actionMenuTextAppearance">            @style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryDisableOnly</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_holo_light</item>
+        <item name="actionModeSplitBackground">@drawable/abc_cab_background_bottom_holo_light</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_cab_done_holo_light</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.Light.ActionButton.CloseMode</item>
+
+        <!-- Dropdown Spinner Attributes -->
+        <item name="actionDropDownStyle">            @style/Widget.AppCompat.Light.Spinner.DropDown.ActionBar</item>
+
+        <!-- Panel attributes -->
+        <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
+        <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
+        <item name="android:panelBackground">@drawable/abc_menu_hardkey_panel_holo_light</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_light</item>
+    </style>
+    <style name="Theme.Base.AppCompat.Light.DarkActionBar" parent="Theme.Base.AppCompat.Light">
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_holo_dark</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse</item>
+        <item name="actionBarWidgetTheme">@style/Theme.AppCompat</item>
+        <item name="actionBarDivider">@drawable/abc_list_divider_holo_dark</item>
+        <item name="actionBarItemBackground">@drawable/abc_item_background_holo_dark</item>
+        <item name="actionBarTabStyle">@style/Widget.AppCompat.Light.ActionBar.TabView.Inverse</item>
+        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.Light.ActionBar.TabBar.Inverse</item>
+        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.Light.ActionBar.TabText.Inverse</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryInverseDisableOnly</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.Light.ActionMode.Inverse</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_holo_dark</item>
+        <item name="actionModeSplitBackground">@drawable/abc_cab_background_bottom_holo_dark</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_cab_done_holo_dark</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
+
+        <!-- Dropdown Spinner Attributes -->
+        <item name="actionDropDownStyle">@style/Widget.AppCompat.Spinner.DropDown.ActionBar</item>
+
+        <!-- Panel attributes -->
+        <item name="android:panelBackground">@drawable/abc_menu_hardkey_panel_holo_dark</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
+    </style>
+    <style name="Theme.Base.AppCompat.Light.DialogWhenLarge" parent="Theme.Base.AppCompat.Light"/>
+    <style name="Theme.Base.Light" parent="android:Theme.Light"/>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/src/main/res/values/theme.xml -->
+    <eat-comment/>
+    <style name="Theme.Styled" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="actionBarStyle">@style/StyledActionBar</item>
+        <item name="actionBarTabStyle">@style/StyledActionBarTabView</item>
+        <item name="actionMenuTextColor">@android:color/white</item>
+    	<item name="android:itemBackground">@color/dark_blue</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="Theme.Styled.NoActionBar" parent="Theme.Styled">
+    	<item name="android:windowNoTitle">true</item>
+	</style>
+    <!-- From: file:/home/cse492/AndroidstudioProjects/BOINC1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values/values.xml -->
+    <eat-comment/>
+    <style name="Widget.AppCompat.ActionBar" parent="Widget.AppCompat.Base.ActionBar"/>
+    <style name="Widget.AppCompat.ActionBar.Solid" parent="Widget.AppCompat.Base.ActionBar.Solid"/>
+    <style name="Widget.AppCompat.ActionBar.TabBar" parent="Widget.AppCompat.Base.ActionBar.TabBar"/>
+    <style name="Widget.AppCompat.ActionBar.TabText" parent="Widget.AppCompat.Base.ActionBar.TabText"/>
+    <style name="Widget.AppCompat.ActionBar.TabView" parent="Widget.AppCompat.Base.ActionBar.TabView"/>
+    <style name="Widget.AppCompat.ActionButton" parent="Widget.AppCompat.Base.ActionButton"/>
+    <style name="Widget.AppCompat.ActionButton.CloseMode" parent="Widget.AppCompat.Base.ActionButton.CloseMode"/>
+    <style name="Widget.AppCompat.ActionButton.Overflow" parent="Widget.AppCompat.Base.ActionButton.Overflow"/>
+    <style name="Widget.AppCompat.ActionMode" parent="Widget.AppCompat.Base.ActionMode"/>
+    <style name="Widget.AppCompat.ActivityChooserView" parent="Widget.AppCompat.Base.ActivityChooserView"/>
+    <style name="Widget.AppCompat.AutoCompleteTextView" parent="Widget.AppCompat.Base.AutoCompleteTextView"/>
+    <style name="Widget.AppCompat.Base.ActionBar" parent="">
+        <item name="displayOptions">useLogo|showHome|showTitle</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="height">?attr/actionBarSize</item>
+        <item name="homeLayout">@layout/abc_action_bar_home</item>
+        <item name="titleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionBar.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle</item>
+        <item name="background">@drawable/abc_ab_transparent_dark_holo</item>
+        <item name="backgroundStacked">@drawable/abc_ab_stacked_transparent_dark_holo</item>
+        <item name="backgroundSplit">@drawable/abc_ab_bottom_transparent_dark_holo</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+        <item name="progressBarStyle">@style/Widget.AppCompat.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.AppCompat.ProgressBar</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ActionBar.Solid" parent="Widget.AppCompat.Base.ActionBar">
+        <item name="background">@drawable/abc_ab_solid_dark_holo</item>
+        <item name="backgroundStacked">@drawable/abc_ab_stacked_solid_dark_holo</item>
+        <item name="backgroundSplit">@drawable/abc_ab_bottom_solid_dark_holo</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ActionBar.TabBar" parent="">
+        <item name="divider">?attr/actionBarDivider</item>
+        <item name="showDividers">middle</item>
+        <item name="dividerPadding">12dip</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ActionBar.TabText" parent="">
+        <item name="android:textAppearance">@null</item>
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:maxLines">2</item>
+        <item name="textAllCaps">true</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ActionBar.TabView" parent="">
+        <item name="android:background">@drawable/abc_tab_indicator_ab_holo</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingLeft">16dip</item>
+        <item name="android:paddingRight">16dip</item>
+        <item name="android:minWidth">80dip</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ActionButton" parent="">
+        <item name="android:background">?attr/actionBarItemBackground</item>
+        <item name="android:paddingLeft">12dip</item>
+        <item name="android:paddingRight">12dip</item>
+        <item name="android:minWidth">@dimen/abc_action_button_min_width</item>
+        <item name="android:minHeight">?attr/actionBarSize</item>
+        <item name="android:gravity">center</item>
+        <item name="android:maxLines">2</item>
+        <item name="textAllCaps">@bool/abc_config_actionMenuItemAllCaps</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ActionButton.CloseMode" parent="Widget.AppCompat.Base.ActionButton"/>
+    <style name="Widget.AppCompat.Base.ActionButton.Overflow" parent="Widget.AppCompat.Base.ActionButton">
+        <item name="android:src">@drawable/abc_ic_menu_moreoverflow_normal_holo_dark</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ActionMode" parent="">
+        <item name="background">?attr/actionModeBackground</item>
+        <item name="backgroundSplit">?attr/actionModeSplitBackground</item>
+        <item name="height">?attr/actionBarSize</item>
+        <item name="titleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionMode.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionMode.Subtitle</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ActivityChooserView" parent="">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/abc_ab_share_pack_holo_dark</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="showDividers">middle</item>
+        <item name="dividerPadding">6dip</item>
+    </style>
+    <style name="Widget.AppCompat.Base.AutoCompleteTextView" parent="android:Widget.AutoCompleteTextView">
+        <item name="android:textColor">?attr/actionMenuTextColor</item>
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_dark</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_dark</item>
+    </style>
+    <style name="Widget.AppCompat.Base.DropDownItem.Spinner" parent="">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Widget.DropDownItem</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ListPopupWindow" parent="">
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_dark</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_dark</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ListView.DropDown" parent="android:Widget.ListView">
+        <item name="android:listSelector">@drawable/abc_list_selector_holo_dark</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ListView.Menu" parent="android:Widget.ListView.Menu">
+        <item name="android:listSelector">?attr/listChoiceBackgroundIndicator</item>
+        <item name="android:divider">?attr/dividerHorizontal</item>
+    </style>
+    <style name="Widget.AppCompat.Base.PopupMenu" parent="@style/Widget.AppCompat.Base.ListPopupWindow"/>
+    <style name="Widget.AppCompat.Base.ProgressBar" parent="android:Widget.ProgressBar">
+        <item name="android:minWidth">@dimen/abc_action_bar_progress_bar_size</item>
+        <item name="android:maxWidth">@dimen/abc_action_bar_progress_bar_size</item>
+        <item name="android:minHeight">@dimen/abc_action_bar_progress_bar_size</item>
+        <item name="android:maxHeight">@dimen/abc_action_bar_progress_bar_size</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ProgressBar.Horizontal" parent="android:Widget.ProgressBar.Horizontal"/>
+    <style name="Widget.AppCompat.Base.Spinner" parent="">
+        <item name="spinnerMode">dropdown</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_dark</item>
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_dark</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/abc_spinner_ab_holo_dark</item>
+    </style>
+    <style name="Widget.AppCompat.DropDownItem.Spinner" parent="Widget.AppCompat.Base.DropDownItem.Spinner"/>
+    <style name="Widget.AppCompat.Light.ActionBar" parent="Widget.AppCompat.Light.Base.ActionBar"/>
+    <style name="Widget.AppCompat.Light.ActionBar.Solid" parent="Widget.AppCompat.Light.Base.ActionBar.Solid"/>
+    <style name="Widget.AppCompat.Light.ActionBar.Solid.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.Solid.Inverse"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabBar" parent="Widget.AppCompat.Light.Base.ActionBar.TabBar"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabBar.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabBar.Inverse"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabText" parent="Widget.AppCompat.Light.Base.ActionBar.TabText"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabText.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabText.Inverse"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabView" parent="Widget.AppCompat.Light.Base.ActionBar.TabView"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabView.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabView.Inverse"/>
+    <style name="Widget.AppCompat.Light.ActionButton" parent="Widget.AppCompat.Light.Base.ActionButton"/>
+    <style name="Widget.AppCompat.Light.ActionButton.CloseMode" parent="Widget.AppCompat.Light.Base.ActionButton.CloseMode"/>
+    <style name="Widget.AppCompat.Light.ActionButton.Overflow" parent="Widget.AppCompat.Light.Base.ActionButton.Overflow"/>
+    <style name="Widget.AppCompat.Light.ActionMode.Inverse" parent="Widget.AppCompat.Light.Base.ActionMode.Inverse"/>
+    <style name="Widget.AppCompat.Light.ActivityChooserView" parent="Widget.AppCompat.Light.Base.ActivityChooserView"/>
+    <style name="Widget.AppCompat.Light.AutoCompleteTextView" parent="Widget.AppCompat.Light.Base.AutoCompleteTextView"/>
+    <style name="Widget.AppCompat.Light.Base.ActionBar" parent="Widget.AppCompat.Base.ActionBar">
+        <item name="background">@drawable/abc_ab_transparent_light_holo</item>
+        <item name="backgroundStacked">@drawable/abc_ab_stacked_transparent_light_holo</item>
+        <item name="backgroundSplit">@drawable/abc_ab_bottom_transparent_light_holo</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.Light.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.Light.ActionButton.Overflow</item>
+        <item name="progressBarStyle">@style/Widget.AppCompat.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.AppCompat.ProgressBar</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.ActionBar.Solid" parent="Widget.AppCompat.Light.Base.ActionBar">
+        <item name="background">@drawable/abc_ab_solid_light_holo</item>
+        <item name="backgroundStacked">@drawable/abc_ab_stacked_solid_light_holo</item>
+        <item name="backgroundSplit">@drawable/abc_ab_bottom_solid_light_holo</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.ActionBar.Solid.Inverse" parent="Widget.AppCompat.Base.ActionBar.Solid">
+        <item name="titleTextStyle">            @style/TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse</item>
+        <item name="subtitleTextStyle">            @style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabBar" parent="Widget.AppCompat.Base.ActionBar.TabBar"/>
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabBar.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabBar"/>
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabText" parent="Widget.AppCompat.Base.ActionBar.TabText"/>
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabText.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabText">
+        <item name="android:textColor">?android:attr/textColorPrimaryInverseDisableOnly</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabView" parent="Widget.AppCompat.Base.ActionBar.TabView"/>
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabView.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabView"/>
+    <style name="Widget.AppCompat.Light.Base.ActionButton" parent="Widget.AppCompat.Base.ActionButton"/>
+    <style name="Widget.AppCompat.Light.Base.ActionButton.CloseMode" parent="Widget.AppCompat.Light.Base.ActionButton"/>
+    <style name="Widget.AppCompat.Light.Base.ActionButton.Overflow" parent="Widget.AppCompat.Light.Base.ActionButton">
+        <item name="android:src">@drawable/abc_ic_menu_moreoverflow_normal_holo_light</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.ActionMode.Inverse" parent="Widget.AppCompat.Base.ActionMode">
+        <item name="titleTextStyle">            @style/TextAppearance.AppCompat.Widget.ActionMode.Title.Inverse</item>
+        <item name="subtitleTextStyle">            @style/TextAppearance.AppCompat.Widget.ActionMode.Subtitle.Inverse</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.ActivityChooserView" parent="Widget.AppCompat.Base.ActivityChooserView">
+        <item name="android:background">@drawable/abc_ab_share_pack_holo_light</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.AutoCompleteTextView" parent="android:Widget.AutoCompleteTextView">
+        <item name="android:textColor">?attr/actionMenuTextColor</item>
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_light</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.DropDownItem.Spinner" parent="Widget.AppCompat.Base.DropDownItem.Spinner"/>
+    <style name="Widget.AppCompat.Light.Base.ListPopupWindow" parent="">
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_light</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.ListView.DropDown" parent="android:Widget.ListView">
+        <item name="android:listSelector">@drawable/abc_list_selector_holo_light</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.PopupMenu" parent="@style/Widget.AppCompat.Light.Base.ListPopupWindow"/>
+    <style name="Widget.AppCompat.Light.Base.Spinner" parent="Widget.AppCompat.Base.Spinner">
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_light</item>
+        <item name="android:background">@drawable/abc_spinner_ab_holo_light</item>
+    </style>
+    <style name="Widget.AppCompat.Light.DropDownItem.Spinner" parent="Widget.AppCompat.Light.Base.DropDownItem.Spinner"/>
+    <style name="Widget.AppCompat.Light.ListPopupWindow" parent="Widget.AppCompat.Light.Base.ListPopupWindow"/>
+    <style name="Widget.AppCompat.Light.ListView.DropDown" parent="Widget.AppCompat.Light.Base.ListView.DropDown"/>
+    <style name="Widget.AppCompat.Light.PopupMenu" parent="Widget.AppCompat.Light.Base.PopupMenu"/>
+    <style name="Widget.AppCompat.Light.Spinner.DropDown.ActionBar" parent="Widget.AppCompat.Light.Base.Spinner"/>
+    <style name="Widget.AppCompat.ListPopupWindow" parent="Widget.AppCompat.Base.ListPopupWindow"/>
+    <style name="Widget.AppCompat.ListView.DropDown" parent="Widget.AppCompat.Base.ListView.DropDown"/>
+    <style name="Widget.AppCompat.ListView.Menu" parent="Widget.AppCompat.Base.ListView.Menu"/>
+    <style name="Widget.AppCompat.PopupMenu" parent="Widget.AppCompat.Base.PopupMenu"/>
+    <style name="Widget.AppCompat.ProgressBar" parent="Widget.AppCompat.Base.ProgressBar"/>
+    <style name="Widget.AppCompat.ProgressBar.Horizontal" parent="Widget.AppCompat.Base.ProgressBar.Horizontal"/>
+    <style name="Widget.AppCompat.Spinner.DropDown.ActionBar" parent="Widget.AppCompat.Base.Spinner"/>
+</resources>
